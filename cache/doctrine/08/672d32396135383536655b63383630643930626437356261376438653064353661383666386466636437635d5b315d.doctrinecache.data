@@ -1,0 +1,2 @@
+1534291846
+a:9:{s:7:"enabled";b:1;s:12:"built_in_css";b:1;s:4:"show";a:4:{s:7:"counter";b:1;s:4:"year";b:1;s:5:"month";b:1;s:5:"items";b:1;}s:5:"limit";a:3:{s:4:"year";i:2;s:5:"month";i:12;s:5:"items";i:40;}s:5:"order";a:2:{s:2:"by";s:4:"date";s:3:"dir";s:4:"desc";}s:17:"filter_combinator";s:3:"and";s:7:"filters";a:1:{s:8:"category";s:4:"blog";}s:4:"data";a:0:{}s:9:"show_more";b:0;}

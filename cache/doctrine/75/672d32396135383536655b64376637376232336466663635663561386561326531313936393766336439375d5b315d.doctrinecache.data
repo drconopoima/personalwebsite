@@ -1,0 +1,825 @@
+1534507472
+a:2:{s:7:"content";s:37177:"<div id="main-wrapper">
+  <!-- Page Preloader -->
+  <div id="preloader">
+    <div id="status">
+      <div class="about status-mes"></div>
+    </div>
+  </div>
+  <div class="about container">
+    <div class="about row">
+      <div class="about col col-md-4 col-lg-3 col-sm-12 col-12 left-col-block blocks">
+        <header class="about header">
+          <div class="about profile-img">
+            <img src="/user/pages/02.about/avatar.jpeg" class="about img-responsive" alt="Profile Photo" title="Luis Diaz Profile Photo" />
+          </div>
+          <div class="about content">
+            <h1>Luis Diaz</h1>
+            <span class="about lead">Front-end Developer</span>
+            <div class="about about-text">
+              <p>
+                Meticulous and quick-learning Information Technology (IT) professional with 3+ years of experience in front-end development using HTML, CSS, Javascript, varied frameworks, and CMS. Specialized in systematic user-focused
+                approach to quality assurance based on responsiveness, accessibility and anticipation of user behavior.
+              </p>
+            </div>
+            <a href="/user/pages/02.about/Diaz_Luis_J_Resume_Web_Developer_IT_Professional.en.pdf" target="_blank" class="btn btn-sm btn-secondary" id="pdf-download">
+              Download in PDF <i class="fa fa-file-pdf-o"></i>
+            </a>
+            <ul class="about social-icon">
+              <li><a href="https://www.linkedin.com/in/drconopoima" target='_blank' title="Linkedin Profile"><i class="about fa fa-linkedin" aria-hidden="true"></i></a></li>
+              <li><a href="mailto:luis@drconopoima.com?subject=Web Development gig"><i class="about fa fa-envelope" aria-hidden="true"></i></a></li>
+              <li><a href="https://github.com/drconopoima" title='Link to Github profile'><i class="about fa fa-github" aria-hidden="true"></i></a></li>
+              <li><a href="https://twitter.com/drconopoima" title='Link to Twitter profile'><i class="about fa fa-twitter" aria-hidden="true"></i></a></li>
+            </ul>
+          </div>
+        </header>
+        <!-- .header-->
+      </div>
+      <!-- .left-col-block -->
+      <div class="about col col-md-8 col-lg-9 col-sm-12 col-12 right-col-block ">
+        <div class="about">
+          <section class="about expertise-wrapper section-wrapper gray-bg">
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Skills</h2>
+                  </div>
+                </div>
+              </div>
+              <!-- .row -->
+              <div class="about row">
+                <div class="about col-md-6">
+                  <div class="about expertise-item">
+                    <h3>Programming Languages</h3>
+                    <p>
+                      <ul>
+                        <li>HTML5, CSS3</li>
+                        <li>Javascript (JQuery)</li>
+                        <li>React.js + Redux</li>
+                        <li>Google Apps Script</li>
+                        <li>Python (NumPy, Matplotlib, SciPy)</li>
+                      </ul>
+                    </p>
+                  </div>
+                </div>
+                <div class="about col-md-6">
+                  <div class="about expertise-item">
+                    <h3>Tools & Frameworks</h3>
+                    <p>
+                      <ul>
+                        <li>Browser devtools (debugger)</li>
+                        <li>Bootstrap, Materialize CSS</li>
+                        <li>Atom, iPython, IDEs </li>
+                        <li>VirtualBox</li>
+                        <li>Wordpress, OctoberCMS, Grav</li>
+                      </ul>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about expertise-item">
+                    <h3>Key Skills</h3>
+                    <p>
+                      <ul>
+                        <li>User Interface (UI), User Experience (UE)</li>
+                        <li>Agile Development (Kanban, Scrum)</li>
+                        <li>Search Engine Optimization (SEO)</li>
+                        <li>Version Control (Git, Jira)</li>
+                        <li>Data Analysis</li>
+                      </ul>
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+          </section>
+          <!-- .expertise-wrapper -->
+
+          <section class="about section-wrapper section-experience gray-bg">
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Work Experience</h2></div>
+                </div>
+              </div>
+              <!--.row-->
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about content-item">
+                    <table>
+                      <tr class="rowpadding">
+                        <td>
+                          <span><h3>Qualia Analytics
+                          </h3></span>
+                        </td>
+                        <td style="text-align:right;">
+                          <span><small>09/2016 - 08/2018</small></span>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td colspan='2'>
+                          <span><small>California, USA/Bedfordshire, UK.</small></span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan='2'>
+                          <h4>
+                            <span><strong>IT Operations Manager</strong> (2018), <strong>Operations Manager</strong> (2017), <strong>Operations Associate</strong> (2016)</span>
+                          </h4>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan='2'>
+                          <span><p>Performance evaluation company offering a survey framework to help informed decision-making on quality and impact.</p></span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td>
+                          <h4>
+                            <span><strong>IT Operations Manager</strong></span>
+                          </h4>
+                        </td>
+                        <td style="text-align:right;">
+                          <span><small>11/2017 - 08/2018</small></span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan='2'>
+                          <span>Software features design, review, troubleshooting, quality assurance, installation & maintenance. Tier II Help Desk.</span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan='2'>
+                          <span>
+                            <ul class="accomplishmentsList">
+                              <li><em>Led two developers</em> and coordinated, trained and supervised <em>six</em> technical associates and <em>one</em> designer.</li>
+                              <li><em>Raised 90% bug identification and report rates</em> within the development environment by establishing in-depth procedures on version control and testing using Jira and Gitlab, greatly <em>improving stability</em> of software releases.
+                              </li>
+                              <li>
+                              Delivered evaluation systems to <strong>50+ worldwide institutions in 11 languages</strong> addressing a wide range of distinct needs about multiple survey collection pathways and participant technological barriers.
+                              </li>
+                              <li>
+                              <em>Expedited average evaluation system building times from 11 hours to 3 hours</em> by standardizing reusable evaluation systems and automating creation of Welcome Packs from adaptable template presentations with Google Slides API.
+                              </li>
+                              <li>
+                              Automated administrative tasks leading to <em>expedited processing and reduced incidence of human error.</em>
+                                <ul style="margin-bottom:auto;">
+                                  <li>Paperwork generation (proposals, employee and client contracts).
+                                  </li>
+                                  <li>Tracking of clients, projects and events.
+                                  </li>
+                                </ul>
+                            </li>
+                            <li>Reviewed, supervised and implemented <em>privacy protection platform improvements and policy documentation changes</em> for compliance with the EU <strong>General Data Protection Regulation (GDPR)</strong>.
+                            </li>
+                            <li><em>Integrated external systems by using webhooks</em> to trigger actions customized based on survey responses. Linked
+platforms included: Jira, Trello, Slack, Xero, Quickbooks, Hubspot, Gmail, Google Drive.
+                            </li>
+                            <li>Identified and pushed a savings plan of 6% ($1000 annually) on technology and software fixed costs by outlining
+and leading implementation of missing features to enable replacement of MailChimp with own CRM capabilities.
+                            </li>
+                          </ul></span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td>
+                          <span>
+                            <h4>
+                              <strong>Operations Manager</strong>
+                            </h4>
+                          </span>
+                        </td>
+                        <td style="text-align:right;">
+                          <span><small>02/2017 - 10/2017</small></span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>Project management and delivery. E-commerce marketing and sales optimization. Responsive web development.</span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            <ul class="accomplishmentsList">
+                              <li>Improved administrative procedures for invoice processing, review and categorization of employee activities by creating a custom-scripted online spreadsheet for employee time reporting, per project activity assignment and automated invoice generation with Google Apps Script.</li>
+                              <li>Redesigned UI of websites and enhanced mobile responsiveness increasing visitors as potential addressable market.
+                              </li>
+                              <li>Restructured marketing strategy by creating responsive email templates with modular category-oriented sections on training subjects and eye-catching icons for better readability and topic communication.
+                              </li>
+                              <li>Designed <em>A/B testing of email campaigns</em> for evaluating the impact of improvements to the HTML template.
+                              </li>
+                            </ul>
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td>
+                          <span>
+                            <h4>
+                              <strong>Operations Associate</strong>
+                            </h4>
+                          </span>
+                        </td>
+                        <td style="text-align:right;">
+                          <span>
+                            <small>08/2016 - 01/2017</small>
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            <p>Implementation and delivery of evaluation systems. Customer-facing support. Management of email advertisement.</p>
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            <ul class="accomplishmentsList">
+                              <li>Maintained and managed 3 websites based on October CMS, Wordpress and Material Design principles.
+                              </li>
+                              <li>
+                                Developed a Javascript project costs calculator for ZooWise with currency conversion using <a href="https://exchangeratesapi.io">ExchangeRatesAPI.io</a>.
+                              </li>
+                              <li>Designed and led systematic website testing for bug reporting and fixing.
+                              </li>
+                              <li>Beat by 2% sector average email opening rates in email marketing campaigns run using MailChimp.
+                              </li>
+                            </ul>
+                          </span>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+
+                  <!-- .experience-item -->
+                  <div class="about content-item">
+                    <table>
+                      <tr class="rowpadding">
+                        <td>
+                          <span>
+                            <h3>Freelance</h3>
+                          </span>
+                        </td>
+                        <td style="text-align:right;">
+                          <span>
+                            <small>10/2015 - 08/2016</small>
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            Caracas, Venezuela (remote work)
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            <h4><strong>Data Analyst</strong></h4>
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                      <td colspan="2">
+                        <span>
+                          <ul class="accomplishmentsList">
+                            <li>Led a team of 4 people to process data in 11000 pdf files creating a web form interface for data entry to API.
+                            </li>
+                            <li>
+                              Research, analysis and report-writing on technology companies culture, minorities integration and gender equality.
+                            </li>
+                          </ul>
+                        </span>
+                      </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <!-- .experience-item -->
+                  <div class="about content-item">
+                    <table>
+                      <tr class="rowpadding">
+                        <td>
+                          <span>
+                            <h3>
+                              Simon Bolivar University
+                            </h3>
+                          </span>
+                        </td>
+                        <td style="text-align:right;">
+                          <span>
+                            <small>
+                              09/2009 - 04/2015
+                            </small>
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            Caracas, Venezuela
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            <h4>
+                              <strong>Teaching Assistant</strong>
+                            </h4>
+                          </span>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <!-- .experience-item -->
+                </div>
+              </div>
+              <!--.row-->
+            </div>
+
+          </section>
+          <!-- .section-experience -->
+
+          <section class="about section-wrapper section-education">
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Education</h2></div>
+                </div>
+              </div>
+              <!--.row-->
+              <div class="about row">
+                <div class="about col-md-12">
+                <!-- .education-item -->
+                  <div class="about content-item">
+                    <table>
+                      <tr class="rowpadding">
+                        <td>
+                          <span>
+                          <h3>
+                            Simon Bolivar University
+                          </h3>
+                        </span>
+                        </td>
+                        <td style="text-align:right;">
+                          <span>
+                          <small>
+                            2015
+                          </small>
+                        </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                          Caracas, Venezuela
+                        </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td>
+                          <span>
+                          <h4>
+                            Bachelor of Science, <strong>Chemical Engineering</strong>
+                          </h4>
+                        </span>
+                        </td>
+                        <td style="text-align:right;">
+                          <span>
+                          Equivalent GPA: 3.0/4.0
+                          </span>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <!-- .education-item -->
+                  <div class="about content-item">
+                    <table>
+                      <tr>
+                        <td>
+                          <span>
+                          Udemy, Coursera, Laracasts
+                          </span>
+                        <td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                          <small>
+                            2016 – 2018
+                          </small>
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                          Online Courses
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            Web development courses. Topics: HTML5, CSS3, Javascript, JQuery, React.js, Redux, PHP.
+                          </span>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <!-- .education-item -->
+                  <div class="about content-item">
+                    <table>
+                      <tr>
+                        <td>
+                          <span>
+                          Enthought, Coursera
+                          </span>
+                        <td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                          <small>
+                            2014 – 2016
+                          </small>
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            Online Courses
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            Python applied to Data Analysis in Science and Engineering. Topics: Python, Matplotlib, Numpy, Scipy, Pandas.
+                          </span>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <!-- .education-item -->
+                </div>
+              </div>
+              <!--.row-->
+            </div>
+
+          </section>
+          <!-- .section-education -->
+
+          <section class="about section-wrapper section-interest gray-bg">
+            <!-- .section-other-software-skills -->
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Other Software Skills</h2></div>
+                </div>
+              </div>
+              <!--.row-->
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about content-item">
+                    <table>
+                      <tr clas="rowpadding">
+                        <td>
+                          <span>
+                          <strong>Operating Systems</strong>
+                        </span>
+                        </td>
+                        <td>
+                          <span>
+                            Linux, Windows, Android, Chrome OS, iOS.
+                          </span>
+                        </td>
+                      </tr>
+                      <tr clas="rowpadding">
+                        <td>
+                          <span>
+                          <strong>Other languages</strong>
+                        </span>
+                        </td>
+                        <td>
+                          <span>
+                          Matlab, Regular Expressions (Regex), Bash, Markdown, TI-Basic.
+                          </span>
+                        </td>
+                      </tr>
+                      <tr clas="rowpadding">
+                        <td>
+                          <span>
+                          <strong>Miscellaneous</strong>
+                        </span>
+                        </td>
+                        <td>
+                          <span>
+                          Jira, Asana, Slack, Hubstaff, SSH, MailChimp, Hubspot, Google Analytics, Teamviewer, GSuite, Microsoft Visio, Office Suite (Excel, Word, PowerPoint), Twitter API, Let’s Encrypt.
+                        </span>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </div>
+              </div>
+          </section>
+          <!-- .section-other-software-skills -->
+
+          <!-- section portfolio -->
+          <section class="about section-wrapper portfolio-section">
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Portfolio</h2>
+                  </div>
+                </div>
+              </div>
+              <div class="about row">
+                <div class="about col-md-6">
+                  <a class="about portfolio-item" href="https://www.zoowise.org">
+                    <div class="about portfolio-thumb">
+                      <img src="/user/pages/02.about/portfolio-1.jpg" alt="">
+                    </div>
+
+                    <div class="about portfolio-info">
+                      <h3>OctoberCMS, Material Design</h3>
+                      <small>zoowise.org</small>
+                    </div>
+          <!-- portfolio-info -->
+          <!-- section portfolio -->
+                  </a>
+          <!-- .portfolio-item -->
+          <!-- section portfolio -->
+                </div>
+                <div class="about col-md-6">
+                  <a class="about portfolio-item" href="https://web.archive.org/web/20160124164015/http://www.salvatuvoto.com/">
+                    <div class="about portfolio-thumb">
+                      <img src="/user/pages/02.about/portfolio-2.jpg" alt="">
+                    </div>
+
+                    <div class="about portfolio-info">
+                      <h3>Wordpress</h3>
+                      <small>salvatuvoto.com</small>
+                    </div>
+          <!-- portfolio-info -->
+          <!-- section portfolio -->
+                  </a>
+          <!-- .portfolio-item -->
+          <!-- section portfolio -->
+                </div>
+                <div class="about col-md-6">
+                  <a class="about portfolio-item" href="https://www.drconopoima.com">
+                    <div class="about portfolio-thumb">
+                      <img src="/user/pages/02.about/portfolio-3.jpg" alt="">
+                    </div>
+
+                    <div class="about portfolio-info">
+                      <h3>Grav, Bootstrap</h3>
+                      <small>drconopoima.com</small>
+                    </div>
+          <!-- portfolio-info -->
+          <!-- section portfolio -->
+                  </a>
+          <!-- .portfolio-item -->
+                </div>
+                <!-- section portfolio
+                <div class="about col-md-6">
+                  <a class="about portfolio-item" href="#">
+                    <div class="about portfolio-thumb">
+                      <img src="img/portfolio-4.jpg" alt="">
+                    </div>
+
+                    <div class="about portfolio-info">
+                      <h3>Market research</h3>
+                      <small>domain.com</small>
+                    </div>
+            -->
+          <!-- portfolio-info -->
+          <!-- section portfolio
+                  </a>
+            -->
+          <!-- .portfolio-item -->
+          <!-- section portfolio -->
+
+              </div>
+            </div>
+
+          </section>
+
+          <!-- section portfolio -->
+          <section class="about section-wrapper section-interest gray-bg">
+            <!-- .section-languages -->
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Languages</h2></div>
+                </div>
+              </div>
+              <!--.row-->
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about content-item">
+                    <table>
+                      <tr clas="rowpadding">
+                        <td>
+                          <span>
+                          <strong>English</strong>
+                        </span>
+                        </td>
+                        <td>
+                          <span>
+                          Highly proficient (C1)
+                        </span>
+                        </td>
+                      </tr>
+                      <tr clas="rowpadding">
+                        <td>
+                          <span>
+                          <strong>Spanish</strong>
+                        </span>
+                        </td>
+                        <td>
+                          <span>
+                          Native
+                        </span>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </div>
+              </div>
+          </section>
+          <!-- .section-languages -->
+
+          <section class="about section-wrapper section-interest gray-bg">
+            <!-- .section-projects -->
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Projects</h2></div>
+                </div>
+              </div>
+              <!--.row-->
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about content-item">
+                    <table>
+                      <tr clas="rowpadding">
+                        <td>
+                          <span>
+                        <ul>
+                        <li>MATLAB module for simulation of multi-component distillations using shortcut and rigorous methods   by applying numerical methods and object-oriented programming.
+                        </li></ul></span>
+                        </td>
+                        <td>
+                          <span>
+                          <a href="https://github.com/drconopoima/destilmatlabusb" target="_blank">Github Link</a>
+                        </span>
+                        </td>
+                      </tr>
+                      <tr>
+                      <td>
+                      <span>
+                      <ul>
+                      <li>Multivariate Numeric Differentiation packages using Matlab and Python based on the Newton-Raphson method using regression models based on 3-points and 5-points for the differentiation estimation.</li>
+                      </ul>
+                      </span>
+                      </td>
+                      <td>
+                      <span>
+                      Github Links: <a href="https://github.com/drconopoima/newtonnumdiffpython/" target="_blank">Python</a> and <a href="https://github.com/drconopoima/newtonnumdiffmatlab" target="_blank">Matlab</a>
+                      </span>
+                      </td>
+                      </tr>
+                      <tr clas="rowpadding">
+                        <td>
+                          <span>
+                          <ul><li>Twitter bot for improving views on e-commerce listings using trending hashtags and tagging listing-sharing accounts while generating original content created with Markov chains for API policy compliance.</li></ul>
+                        </span>
+                        </td>
+                        <td>
+                          <span>
+                          <a href="https://www.twitter.com/merline24" target="_blank">Twitter Bot User</a>
+                        </span>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </div>
+              </div>
+          </section>
+          <!-- .section-projects -->
+
+          <!-- .section-interests -->
+
+          <section class="about section-wrapper section-interest gray-bg">
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Interests</h2>
+                  </div>
+                </div>
+              </div>
+              <!-- .row -->
+
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about content-item">
+                    <strong>Audiophile</strong>
+
+                    <p>The first time I listened to well-recorded music through an amazing pair of headphones I finally knew what it was to really get involved with the rhythm. I kept going higher end and each step blew my mind further, I was amazed at hearing
+                      the singer's breath for the first time, the sound of the guitarists' pick making contact, on systems with good imaging it's amazing to locate where each musician is across the stage, and when I tried headphones with huge soundstage
+                      I couldn't believe how I perceived the sound coming from far away to the left or right. I continue to be amazed at the difference between my prior experiences with primarily gaming headphones and actually listening to real music
+                      on amazing audio equipment.</p>
+                  </div>
+                  <div class="about content-item">
+                    <strong>Finances and Investment</strong>
+
+                    <p>I enjoy financial planning. I read books about investment advice. I am thrilled by information primarily on personal finances. My interest in finances comes after watching my parent's worth be destroyed by high inflation rates in Venezuela,
+                      how they were completely unprepared to face higher prices every day and how their money became worthless in bank accounts.</p>
+                    <p>My goal is to make sound financial choices leading to providing my own retirement with plenty resources for a comfortable living without depending on pension plans or social security benefits, which aren't reliable services in periods
+                      of inflation. My favorite author is John T. Reed. Make sure you prepare for the upcoming hyperinflation of the dollar and the Euro, I recommend his book <a href="https://johntreed.com/products/how-to-protect-your-life-savings-from-hyperinflation-and-depression"
+                        title="John T Reed Book Hyperinflation and Deflation" target="_blank">How to Protect your Life Savings from Hyperinflation and Deflation</a></p>
+
+                  </div>
+                </div>
+              </div>
+              <!-- .row -->
+
+            </div>
+
+          </section>
+          <!-- .section-interests -->
+          <section class="about section-contact section-wrapper gray-bg">
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Contact</h2>
+                  </div>
+                </div>
+              </div>
+              <!--.row-->
+              <div class="about row">
+                <div class="about col-md-12">
+                  <strong>Email</strong><br>
+                  <a href="mailto:luis@drconopoima.com">luis@drconopoima.com</a>
+                  <address>
+                    <strong>Location</strong><br>
+                    Madrid, Spain
+                  </address>
+                  </address>
+                </div>
+              </div>
+              <!--.row-->
+
+          </section>
+          <!--.section-contact-->
+          </div>
+          </div>
+          <!-- Sticky -->
+          </div>
+          <!-- .right-col-block -->
+          </div>
+          <!-- .columns-block -->
+          </div>
+          <!-- #main-wrapper -->
+          <script>
+            $(document).ready(function() {
+              // Show only the first accomplishments and add "show more" toggle
+              $('ul.accomplishmentsList').each(function() {
+                //  Show only 3 items first
+                var numberOfItems = 3
+
+                if ($(this).find('li').length > numberOfItems) {
+                  $('li', this).eq(2).nextAll().hide().addClass('hidden');
+                  $(this).append('<button class="readMoreAccomplishments btn btn-secondary btn-sm">Show more...</button>');
+                }
+                $(this).on('click', '.readMoreAccomplishments', toggleShow);
+              });
+
+              function toggleShow() {
+                var opened = $(this).hasClass('less');
+                $(this).text(opened ? 'Show more...' : 'Show less...').toggleClass('less', !opened);
+                $(this).siblings('li.hidden').slideToggle();
+              }
+            });
+          </script>";s:12:"content_meta";N;}

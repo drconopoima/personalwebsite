@@ -1,0 +1,10 @@
+enabled: true
+author: Luis Diaz
+title_header: false
+home_profile: true
+infinite_scroll: true
+analytics: UA-YOURCODE
+social:
+    twitter: @drconopoima
+    facebook: drconopoima
+

@@ -1,0 +1,14 @@
+email: luisjesusdm@gmail.com
+fullname: 'Luis Diaz'
+title: Administrator
+state: enabled
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+  site:
+    login: 'true'
+hashed_password: $2y$10$ORd9krI1YetTD6Ot3fGlTO9KMYrLMyT4XTYOy3M.9f6viTqD7PW6a
+language: en
+twofa_enabled: true
+twofa_secret: G7WPR3TS5SGDEUACPIXVDYJIIJIWREVD

@@ -1,0 +1,21 @@
+<section id="navigation">
+
+    <nav class="main-nav">
+        {% for page in pages.children.visible %}
+            {% set current_page = (page.active or page.activeChild) ? 'active' : '' %}
+            <a class="{{ current_page }}" href="{{ page.url }}">
+                {% if page.home %}<span class="arrow">←</span> {% endif %}
+                {% if page.header.icon %}<i class="fa fa-{{ page.header.icon }}"></i>{% endif %}
+                {{ page.menu }}
+            </a>
+        {% endfor %}
+        <!-- Begin MailChimp Signup Form -->
+        <a href="https://drconopoima.us19.list-manage.com/subscribe/post?u=d4b59a3bfa0a927fa5d50b3b7&amp;id=3d84824274" class="btn btn-primary text-white"  name="subscribe" id="mc-embedded-subscribe" class="button">{{ 'SUBSCRIBE'|t }}
+        </a>
+
+        <!--End mc_embed_signup-->
+    </nav>
+    {% if config.plugins.langswitcher.enabled %}
+        {% include 'partials/langswitcher.html.twig' %}
+    {% endif %}
+</section>

@@ -1,0 +1,63 @@
+1534291846
+a:2:{s:7:"content";s:4961:"<p>Being able to do version control easily is one of the most compelling advantages of using a flat-file CMS, so I decided to use Grav to be able to keep good version control of my website.</p>
+<p>I wanted to make this blog multilingual English/Spanish, so I tested the MultiLang skeleton package and realized that I would want to make some changes the theme included with it (Cacti). There were a few bugs in the included theme that I wanted to resolve and I also envisioned that the Language Switcher could be improved for a better experience.</p>
+<p>To create a project repository for my website's customisations to the theme, I started by forking the <a href="https://github.com/getgrav/grav-theme-cacti" target="_blank" rel="nofollow noopener noreferrer" class="external-link no-image">GitHub project for the Cacti Theme</a>. I then cloned the repo in my local Linux PC with git CLI.</p>
+<blockquote>
+<p>~$ <code>git clone https://github.com/drconopoima/grav-theme-cacti</code></p>
+</blockquote>
+<p>Since the date of the last commit in the official project (August 2016) was before the date of the last update of the <a href="https://getgrav.org/downloads/skeletons" target="_blank" rel="nofollow noopener noreferrer" class="external-link no-image">MultiLang Skeleton package (July 2018)</a>, I decided to check if there were changes applied to the Cacti theme used in the skeleton package compared to the last commit at the Github project. I used the diff Linux command to compare and find out:</p>
+<blockquote>
+<p>~$ <code>diff -r ./grav-theme-cacti ./grav-skeleton-multilang-site/user/themes/cacti/ | grep ./grav-theme-cacti/ | awk '{print $4}' &gt; differences.txt</code></p>
+</blockquote>
+<p>The output was the list of files that had been updated in the theme compared to the last version in GitHub.</p>
+<p>On a side note, after retrieving which files were different, I reviewed them side by side by using the Atom text editor with the useful plugin <a href="https://atom.io/packages/split-diff" target="_blank" rel="nofollow noopener noreferrer" class="external-link no-image">split diff</a> that highlights the differences and lets you cycle through them.</p>
+<p>To streamline the latest official modifications as they came from GetGrav.org skeleton, I first applied these modifications locally and proceeded to commit these files to the <strong>develop</strong> branch in my Github fork:</p>
+<blockquote>
+<p>~$ <code>git init</code>
+<br>~$ <code>git branch</code> // Checks the active branch. The output should indicate all branches, with <span style="color: blue">&ast;develop</span> highlighted as active
+<br>~$ <code>git checkout develop</code> // if develop isn't the active branch</p>
+</blockquote>
+<p>Then, I applied the changes that were found by using diff (which are in the list below). To add the edited files for a commit:</p>
+<blockquote>
+<p>~$ <code>git add</code> <code>css/style.css</code>
+<br><code>languages.yaml</code>
+<br><code>templates/partials/base.html.twig</code>
+<br><code>templates/partials/disqus.html.twig</code>
+<br><code>templates/post.html.twig</code></p>
+</blockquote>
+<p>Alternatively, you could use this command to add all files in the repository:</p>
+<blockquote>
+<p>~$ <code>git add .</code></p>
+</blockquote>
+<p>You can check that it recognized that the files were edited by using the following command:</p>
+<blockquote>
+<p>~$ <code>git status</code></p>
+</blockquote>
+<p>The output should list the files that were changed and confirm being in the development branch.</p>
+<p>To commit the changes:</p>
+<blockquote>
+<p>~$ <code>git commit -m "Theme official updates up to July 2018</code></p>
+</blockquote>
+<p>To push the changes to the repository:</p>
+<blockquote>
+<p>~$ <code>git push</code></p>
+</blockquote>
+<p>I proceeded to merge the development and master branches. It's a good practice to start by merging the master branch into the development branch, to be able to identify and resolve any issues that may arise. Afterwards, it's safe to merge development into master. Doing it this way ensures a clean master branch.</p>
+<blockquote>
+<p><br>~$ <code>git merge master</code> // merge master into develop
+<br>~$ <code>git checkout master</code> // change to the master branch
+<br>~$ <code>git merge develop</code> // merge develop into master</p>
+</blockquote>
+<p>Then I created a new custom branch for the bugfixes that I wanted to make:</p>
+<blockquote>
+<p>~$ <code>git branch themebugfixes</code></p>
+</blockquote>
+<p>And switched into the custom branch.</p>
+<blockquote>
+<p>~$ <code>git checkout themebugfixes</code></p>
+</blockquote>
+<p>After creating the new local branch, I pushed it as a new branch to the Github repo:</p>
+<blockquote>
+<p>~$ <code>git push origin themebugfixes</code></p>
+</blockquote>
+<p>I am going to end this article here for it to serve as a guide on version control and I'll create separate articles for the bugfixes and improvements that I've implemented to the theme.</p>";s:12:"content_meta";N;}

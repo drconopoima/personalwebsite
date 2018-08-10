@@ -1,0 +1,892 @@
+1534510144
+a:2:{s:7:"content";s:41463:"<div id="main-wrapper">
+
+  <div class="about container">
+    <div class="about row">
+      <div class="about col col-md-4 col-lg-3 col-sm-12 col-12 left-col-block blocks">
+        <header class="about header">
+          <div class="about profile-img">
+            <img src="/user/pages/02.about/avatar.jpeg" class="about img-responsive" alt="Foto de perfil" title="Luis Diaz Foto de perfil" />
+          </div>
+          <div class="about content">
+            <h1>Luis Diaz</h1>
+            <span class="about lead">Desarrollador web</span>
+
+            <div class="about about-text">
+              <p>
+                Especialista meticuloso y de aprendizaje rápido de tecnología de la información (IT) aplicada al área de operaciones. Conjunto versátil de habilidades y 3 años de experiencia en desarrollo web utilizando HTML, CSS, Javascript, frameworks variados y CMS. Especializado en un enfoque sistemático enfocado en el usuario para la garantía de calidad, basado en la capacidad de adaptación a dispositivos móviles, la accesibilidad y la anticipación del comportamiento de los usuarios.
+              </p>
+            </div>
+
+            <a href="/user/pages/02.about/Diaz_Luis_J_Curriculum_Vitae_Desarrollador_Web_y_Gerente_de_Operaciones_Tecnologicas.es.pdf" target="_blank" class="btn btn-sm btn-secondary" id="pdf-download">
+              Descargar en PDF <i class="fa fa-file-pdf-o"></i>
+            </a>
+            <ul class="about social-icon">
+              <li><a href="https://www.linkedin.com/in/drconopoima" target='_blank' title="Perfil de Linkedin"><i class="about fa fa-linkedin" aria-hidden="true"></i></a></li>
+              <li><a href="mailto:luis@drconopoima.com?subject=Trabajo de desarrollo web"><i class="about fa fa-envelope" aria-hidden="true"></i></a></li>
+              <li><a href="https://github.com/drconopoima" title='Perfil de Github'><i class="about fa fa-github" aria-hidden="true"></i></a></li>
+              <li><a href="https://twitter.com/drconopoima" title='Link to Twitter profile'><i class="about fa fa-twitter" aria-hidden="true"></i></a></li>
+            </ul>
+          </div>
+
+        </header>
+        <!-- .header-->
+
+      </div>
+      <!-- .left-col-block -->
+
+      <div class="about col col-md-8 col-lg-9 col-sm-12 col-12 right-col-block ">
+        <div class="about">
+          <section class="about expertise-wrapper section-wrapper gray-bg">
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Habilidades</h2>
+                  </div>
+                </div>
+              </div>
+              <!-- .row -->
+
+              <div class="about row">
+                <div class="about col-md-6">
+                  <div class="about expertise-item">
+                    <h3>Lenguajes de Programación</h3>
+
+                    <p>
+                      <ul>
+                        <li>HTML5, CSS3</li>
+                        <li>Javascript</li>
+                        <li>Google Apps Script</li>
+                        <li>Python (NumPy, Matplotlib, SciPy)</li>
+                        <li>MATLAB</li>
+                      </ul>
+                    </p>
+                  </div>
+                </div>
+                <div class="about col-md-6">
+                  <div class="about expertise-item">
+                    <h3>Herramientas</h3>
+
+                    <p>
+                      <ul>
+                        <li>Devtools de navegador</li>
+                        <li>Bootstrap, Materialize CSS</li>
+                        <li>Atom, Sublime Text, iPython</li>
+                        <li>VirtualBox</li>
+                        <li>Wordpress, OctoberCMS, Grav</li>
+                      </ul>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about expertise-item">
+                    <h3>Habilidades</h3>
+
+                    <p>
+                      <ul>
+                        <li>Interfaz y Experiencia de Usuario (UI/UX)</li>
+                        <li>Metodología Agil (Scrum/Kanban)</li>
+                        <li>Optimización de motores de búsqueda (SEO)</li>
+                        <li>Control de versiones (Git, Jira)</li>
+                        <li>Análisis de Datos</li>
+                      </ul>
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+          </section>
+          <!-- .expertise-wrapper -->
+
+          <section class="about section-wrapper section-experience gray-bg">
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Experiencia laboral</h2></div>
+                </div>
+              </div>
+              <!--.row-->
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about content-item">
+                    <table>
+                      <tr class="rowpadding">
+                        <td>
+                          <span><h3>Qualia Analytics
+                          </h3></span>
+                        </td>
+                        <td style="text-align:right;">
+                          <span><small>09/2016 - 07/2018</small></span>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td colspan='2'>
+                          <span><small>California, United States. Bedfordshire, United Kingdom.</small></span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan='2'>
+                          <h4>
+                            <span><strong>Gerente de Operaciones Técnicas (IT)</strong> (2018), <strong>Gerente de Operaciones</strong> (2017), <strong>Asociado de Operaciones</strong> (2016)</span>
+                          </h4>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan='2'>
+                          <span><p>Empresa de vanguardia en el área de la investigación y evaluación de desempeño que ofrece una plataforma de encuestas  de retroalimentación y herramientas de análisis para facilitar la toma de decisiones informadas sobre calidad e impacto.</p></span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td>
+                          <h4>
+                            <span><strong>Gerente de Operaciones Técnicas (IT)</strong></span>
+                          </h4>
+                        </td>
+                        <td style="text-align:right;">
+                          <span><small>11/2017 - 08/2018</small></span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan='2'>
+                          <span>Diseño, revisión, resolución de problemas, control de calidad, instalación y mantenimiento de características de software. Soporte técnico avanzado.</span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan='2'>
+                          <span>
+                            <ul class="accomplishmentsList">
+                              <li><em>Dirección de 2 desarrolladores</em> y coordinación, entrenamiento y supervisión de <em>6 asociados técnicos</em> y <em>un diseñador</em>.</li>
+                              <li><em>Incremento en un 90% en la identificación y reporte de errores</em> en el entorno de pruebas mediante el establecimiento de procedimientos en profundidad para el control de versiones y las pruebas con Jira y Gitlab, lo que mejora en gran medida la <em>estabilidad de las versiones</em> de software.
+                              </li>
+                              <li>
+                              Entrega de sistemas de evaluación <strong>a más de 50 instituciones de todo el mundo en 11 idiomas</strong>, abordando una amplia gama de necesidades distintas abarcando múltiples mecanismos de recopilación de encuestas y sobreponiéndose a barreras tecnológicas de los participantes.
+                              </li>
+                              <li>
+                              <em>Agilización en los tiempos de construcción de sistemas de evaluación promedios desde un total de 11 horas hasta 3 horas</em> al estandarizar los sistemas de evaluación migrando a diseños reutilizables y automatización con Google Slides API de la generación de Paquetes de Bienvenida a partir de presentaciones de plantillas adaptables.
+                              </li>
+                              <li>
+                                <em>Automatización de tareas administrativas</em> que permitió <em>acelerar procesos internos y reducir incidencia de errores</em>.
+                                <ul style="margin-bottom:auto;">
+                                  <li>Generación de papeleo (propuestas, contratos internos y externos).
+                                  </li>
+                                  <li>Seguimiento de clientes, proyectos y eventos.
+                                  </li>
+                                </ul>
+                            </li>
+                            <li>Revisión, supervisión e implementación de mejoras en la plataforma de protección de la privacidad y cambios en la documentación de las políticas para cumplir con el <strong>Reglamento General de Protección de Datos (GDPR)</strong> de la UE.</strong>.
+                            </li>
+                            <li><em>Integración de sistemas externos mediante el uso de webhooks</em> para ejecutar acciones personalizadas basadas en las respuestas de una encuesta iniciadora. Plataformas enlazadas incluyen: Jira, Trello, Slack, Xero, Quickbooks, Hubspot, Gmail, Google Drive.
+                            </li>
+                            <li>Identificación y ejecución de un plan de ahorros del 6% (1000€ anuales) en costos fijos de tecnología y software mediante el reemplazo de MailChimp con capacidades propias de CRM.
+                            </li>
+                          </ul></span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td>
+                          <span>
+                            <h4>
+                              <strong>Gerente de Operaciones</strong>
+                            </h4>
+                          </span>
+                        </td>
+                        <td style="text-align:right;">
+                          <span><small>02/2017 - 10/2017</small></span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>Gestión y ejecución de proyectos. Marketing de comercio electrónico y optimización de ventas. Desarrollo web con compatibilidad para dispositivos móviles.</span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            <ul class="accomplishmentsList">
+                              <li>Mejora de los procedimientos administrativos para el procesamiento de facturas, la revisión y la categorización de las actividades de los empleados mediante la creación de una hoja de cálculo en línea basada en ejecución de scripts personalizados de cálculo para la elaboración de reportes precisos del tiempo invertido por los empleados, la asignación de actividades por proyecto y la generación automatizada de facturas con Google Apps Script.</li>
+                              <li>Rediseño de la interfaz de usuario de los sitios web y mejora de la capacidad de respuesta en dispositivos móviles para aumentan el potencial de mercado y la cohesión estética a lo largo del camino de conversión de ventas, desde los materiales de marketing hasta el proceso de compra.
+                              </li>
+                              <li>Reestructuración de la estrategia de marketing mediante la creación de plantillas de correo electrónico con capacidad de adaptación a dispositivos móviles y con secciones modulares categorizadas por temas de formación, así como inclusión de iconos llamativos (Font Awesome) para una mejor legibilidad y comunicación de los temas.
+                              </li>
+                              <li>Diseño de <em>pruebas A/B de campañas de correo electrónico</em> para evaluar el impacto de mejoras a la plantilla HTML.
+                              </li>
+                            </ul>
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td>
+                          <span>
+                            <h4><strong>Asociado de Operaciones</strong></h4>
+                          </span>
+                        </td>
+                        <td style="text-align:right;">
+                          <span>
+                            <small>08/2016 - 01/2017</small>
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            <p>Implementación y entrega de sistemas de evaluación. Soporte al cliente. Gestión de la publicidad por correo electrónico.</p>
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            <ul class="accomplishmentsList">
+                              <li>Mantenimiento y administración de 3 sitios web basados en October CMS y Wordpress y diseñados acorde a los principios de Material Design.
+                              </li>
+                              <li>
+                                Desarrollo de una calculadora de costos de ZooWise usando Javascript conectando con <a href="https://exchangeratesapi.io">ExchangeRatesAPI.io</a> para conversión de moneda
+                              </li>
+                              <li>Diseño y dirección de pruebas sistemáticas de las páginas web para el reporte y la resolución de errores.
+                              </li>
+                              <li>Superadas en más de 2% las tasas medias de apertura del correos electrónicos del sector en varias campañas de marketing realizadas y evaluadas mediante el uso de MailChimp.
+                              </li>
+                            </ul>
+                          </span>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+
+                  <!-- .experience-item -->
+                  <div class="about content-item">
+                    <table>
+                      <tr class="rowpadding">
+                        <td>
+                          <span>
+                            <h3>Autónomo/Freelance</h3>
+                          </span>
+                        </td>
+                        <td style="text-align:right;">
+                          <span>
+                            <small>10/2015 - 08/2016</small>
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            Caracas, Venezuela (remote work)
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            <h4><strong>Analista de Datos</strong></h4>
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                      <td colspan="2">
+                        <span>
+                          <ul class="accomplishmentsList">
+                            <li>Dirigir un equipo de 4 personas para procesar datos en 11000 archivos pdf creando una interfaz de formulario web para la entrada de datos a la API.
+                            </li>
+                            <li>
+                              Investigación, análisis y redacción de informes sobre la cultura laboral en las empresas tecnológicas, la integración de las minorías y la igualdad de género.
+                            </li>
+                          </ul>
+                        </span>
+                      </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <!-- .experience-item -->
+                  <div class="about content-item">
+                    <table>
+                      <tr class="rowpadding">
+                        <td>
+                          <span>
+                            <h3>
+                              Universidad Simón Bolívar
+                            </h3>
+                          </span>
+                        </td>
+                        <td style="text-align:right;">
+                          <span>
+                            <small>
+                              09/2009 - 04/2015
+                            </small>
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            Caracas, Venezuela
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            <h4>
+                              <strong>Tutor Académico<strong>
+                            </h4>
+                          </span>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <!-- .experience-item -->
+                </div>
+              </div>
+              <!--.row-->
+            </div>
+          </section>
+          <!-- .section-experience -->
+
+          <section class="about section-wrapper section-education">
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Educación</h2></div>
+                </div>
+              </div>
+              <!--.row-->
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about content-item">
+                    <table>
+                      <tr class="rowpadding">
+                        <td>
+                          <span>
+                          <h3>
+                             Universidad Simón Bolívar
+                          </h3>
+                        </span>
+                        </td>
+                        <td style="text-align:right;">
+                          <span>
+                          <small>
+                            2015
+                          </small>
+                        </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                          Caracas, Venezuela
+                        </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td>
+                          <span>
+                          <h4>
+                            Ingeniería Química</strong>
+                          </h4>
+                        </span>
+                        </td>
+                        <td style="text-align:right;">
+                          <span>
+                          Calificación equivalente: 2.96/4.0
+                        </span>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <!-- .experience-item -->
+                  <!-- .education-item -->
+                  <div class="about content-item">
+                    <table>
+                      <tr>
+                        <td>
+                        <h3>
+                          <span>
+                          Udemy, Coursera, Laracasts
+                          </span>
+                        </h3>
+                        </td>
+                        <td style="text-align:right;">
+                          <span>
+                          <small>
+                            2016 – 2018
+                          </small>
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                          Cursos en línea
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            Cursos de desarrollo web. Temas: HTML5, CSS3, Javascript, JQuery, React.js, Redux, PHP.
+                          </span>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <!-- .education-item -->
+                  <div class="about content-item">
+                    <table>
+                      <tr>
+                        <td>
+                        <h3>
+                          <span>
+                          Enthought, Coursera
+                          </span>
+</h3>
+                        </td>
+                        <td style="text-align:right;">
+                          <span>
+                          <small>
+                            2014 – 2016
+                          </small>
+                          </span>
+                        </td>
+                        </tr>
+                        <tr>
+                        <td colspan="2">
+                          <span>
+                            Cursos en línea
+                          </span>
+                        </td>
+                      </tr>
+                      <tr class="rowpadding">
+                        <td colspan="2">
+                          <span>
+                            Python aplicado al Análisis de Datos en Ciencias e Ingenierías. Temas: Python, Matplotlib, Numpy, Scipy, Pandas.
+                          </span>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </div>
+              </div>
+              <!--.row-->
+            </div>
+
+          </section>
+          <!-- .section-education -->
+
+          <section class="about section-wrapper section-interest gray-bg">
+            <!-- .section-other-software-skills -->
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Habilidades de Software Adicionales</h2></div>
+                </div>
+              </div>
+              <!--.row-->
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about content-item">
+                    <table>
+                      <tr clas="rowpadding">
+                        <td>
+                          <span>
+                          <strong>Sistemas Operativos</strong>
+                        </span>
+                        </td>
+                        <td>
+                          <span>
+                          <em>Linux, Windows, Android, ChromeOS, iOS.
+                        </span>
+                        </td>
+                      </tr>
+                      <tr clas="rowpadding">
+                        <td>
+                          <span>
+                          <strong>Lenguajes Adicionales</strong>
+                        </span>
+                        </td>
+                        <td>
+                          <span>
+                          Matlab, PHP, Expresiones Regulares (Regex), Bash, Markdown (Github).
+                        </span>
+                        </td>
+                      </tr>
+                      <tr clas="rowpadding">
+                        <td>
+                          <span>
+                          <strong>Miscelaneos</strong>
+                        </span>
+                        </td>
+                        <td>
+                          <span>
+                          Jira, Asana, Slack, Discord, Hubstaff, SSH, MailChimp, Hubspot, GSuite, Teamviewer, Google Analytics, Microsoft Visio, Office (Word, Excel, PowerPoint), Let’s Encrypt, APIs.
+                          </span>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </div>
+              </div>
+          </section>
+          <!-- .section-other-software-skills -->
+          <!-- section portfolio -->
+          <section class="about section-wrapper portfolio-section">
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Portfolio</h2>
+                  </div>
+                </div>
+              </div>
+              <div class="about row">
+                <div class="about col-md-6">
+                  <a class="about portfolio-item" href="https://www.zoowise.org">
+                    <div class="about portfolio-thumb">
+                      <img src="/user/pages/02.about/portfolio-1.jpg" alt="">
+                    </div>
+
+                    <div class="about portfolio-info">
+                      <h3>OctoberCMS, Material Design</h3>
+                      <small>zoowise.org</small>
+                    </div>
+          <!-- portfolio-info -->
+                  </a>
+          <!-- .portfolio-item -->
+                </div>
+                <div class="about col-md-6">
+                  <a class="about portfolio-item" href="https://web.archive.org/web/20160124164015/http://www.salvatuvoto.com/">
+                    <div class="about portfolio-thumb">
+                      <img src="/user/pages/02.about/portfolio-2.jpg" alt="">
+                    </div>
+                    <div class="about portfolio-info">
+                      <h3>Wordpress</h3>
+                      <small>salvatuvoto.com</small>
+                    </div>
+                  </a>
+          <!-- .portfolio-item -->
+                </div>
+                <div class="about col-md-6">
+                  <a class="about portfolio-item" href="https://www.drconopoima.com">
+                    <div class="about portfolio-thumb">
+                      <img src="/user/pages/02.about/portfolio-3.jpg" alt="">
+                    </div>
+
+                    <div class="about portfolio-info">
+                      <h3>Grav, Bootstrap</h3>
+                      <small>drconopoima.com</small>
+                    </div>
+          <!-- portfolio-info -->
+                  </a>
+          <!-- .portfolio-item -->
+                </div>
+          <!--
+                <div class="about col-md-6">
+                  <a class="about portfolio-item" href="#">
+                    <div class="about portfolio-thumb">
+                      <img src="img/portfolio-4.jpg" alt="">
+                    </div>
+
+                    <div class="about portfolio-info">
+                      <h3>Market research</h3>
+                      <small>domain.com</small>
+                    </div>
+            -->
+          <!-- </a>
+            -->
+          <!-- .portfolio-item -->
+              </div>
+            </div>
+          </section>
+          <!-- section portfolio -->
+
+          <section class="about section-wrapper section-interest gray-bg">
+            <!-- .section-projects -->
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Proyectos</h2></div>
+                </div>
+              </div>
+              <!--.row-->
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about content-item">
+                    <table>
+                      <tr clas="rowpadding">
+                        <td>
+                          <span>
+                        <ul>
+                        <li>Módulo de MATLAB para simulación de destilación multicomponente utilizando métodos cortos y rigurosos mediante la aplicación de métodos numéricos y programación orientada a objetos.
+                        </li></ul></span>
+                        </td>
+                        <td>
+                          <span>
+                          <a href="https://github.com/drconopoima/destilmatlabusb" target="_blank">Github Link</a>
+                        </span>
+                        </td>
+                      </tr>
+                      <tr>
+                      <td>
+                      <span>
+                      <ul>
+                      <li>Paquetes de Diferenciación Numérica Multivariable usando Matlab y Python basados en el método Newton-Raphson usando modelos de regresión basados en 3 puntos y 5 puntos para la estimación de la diferenciación.</li>
+                      </ul>
+                      </span>
+                      </td>
+                      <td>
+                      <span>
+                      Enlaces en Github: <a href="https://github.com/drconopoima/newtonnumdiffpython/" target="_blank">Python</a> y <a href="https://github.com/drconopoima/newtonnumdiffmatlab" target="_blank">Matlab</a>
+                      </span>
+                      </td>
+                      </tr>
+                      <tr clas="rowpadding">
+                        <td>
+                          <span>
+                          <ul><li>Bot de Twitter para mejorar visitas en listados de e-commerce utilizando tendencias y etiquetando cuentas públicas de venta, generando contenido original con cadenas de Markov en paralelo como requiere la política de la API.</li></ul>
+                        </span>
+                        </td>
+                        <td>
+                          <span>
+                          <a href="https://www.twitter.com/merline24" target="_blank">Cuenta Bot</a>
+                        </span>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </div>
+              </div>
+          </section>
+          <!-- .section-projects -->
+
+          <section class="about section-wrapper section-interest gray-bg">
+            <!-- .section-languages -->
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Idiomas</h2></div>
+                </div>
+              </div>
+              <!--.row-->
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about content-item">
+                    <table>
+                      <tr clas="rowpadding">
+                        <td>
+                          <span>
+                          <strong>Español</strong>
+                        </span>
+                        </td>
+                        <td>
+                          <span>
+                          Nativo
+                        </span>
+                        </td>
+                      </tr>
+                      <tr clas="rowpadding">
+                        <td>
+                          <span>
+                          <strong>Inglés</strong>
+                        </span>
+                        </td>
+                        <td>
+                          <span>
+                          Altamente Competente (C1)
+                        </span>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </div>
+              </div>
+          </section>
+          <!-- .section-languages -->          
+
+          <section class="about section-wrapper section-interest gray-bg">
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Intereses</h2>
+                  </div>
+                </div>
+              </div>
+              <!-- .row -->
+
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about content-item">
+                    <strong>Audiófilo</strong>
+
+                    <p>La primera vez que escuché música bien grabada a través de unos auriculares increíbles supe lo que era involucrarse realmente con el ritmo. Seguí yendo más alto y cada paso me impresionaba aún más, me sorprendió escuchar el aliento de la cantante por primera vez, el sonido de la uña de los guitarristas haciendo contacto, en sistemas con buena imagen es asombroso localizar dónde está cada músico a través del escenario, y cuando probé los auriculares con escena de sonido muy abierta no podía creer cómo percibía el sonido pareciendo que se ubicase muy lejos a la izquierda o a la derecha. Sigo sorprendido por la diferencia entre mis experiencias anteriores con audífonos para juegos y escuchar música real en un equipo de audio increíble.</p>
+                  </div>
+                  <div class="about content-item">
+                    <strong>Finanzas e Inversión</strong>
+
+                    <p>Me gusta la planificación financiera. Leo libros sobre consejos de inversión. Estoy encantado con la información principalmente sobre finanzas personales. Mi interés en las finanzas viene después de ver cómo el valor de mis padres fue destruido por las altas tasas de inflación en Venezuela, cómo no estaban preparados para enfrentar precios más altos todos los días y cómo su dinero no valía nada en las cuentas bancarias.</p>
+                    <p>Mi meta es tomar decisiones financieras sólidas que me lleven a proveer mi propio retiro con muchos recursos para vivir cómodamente sin depender de planes de pensión o beneficios de seguridad social, que no son servicios confiables en períodos de inflación. Mi autor favorito es John T. Reed. Asegúrese de prepararse para la próxima hiperinflación del dólar y el euro, le recomiendo su libro  <a href="https://johntreed.com/products/how-to-protect-your-life-savings-from-hyperinflation-and-depression"
+                        title="Libro de John T Reed sobre Hiperinflación y deflación" target="_blank">Cómo proteger sus ahorros de la vida de la hiperinflación y la deflación</a>.</p>
+                  </div>
+                </div>
+              </div>
+              <!-- .row -->
+
+            </div>
+
+          </section>
+          <!-- .section-interests -->
+
+          <!-- section portfolio
+          <section class="about section-wrapper portfolio-section">
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Portfolio</h2>
+                  </div>
+                </div>
+              </div>
+              <div class="about row">
+                <div class="about col-md-6">
+                  <a class="about portfolio-item" href="#">
+                    <div class="about portfolio-thumb">
+                      <img src="img/portfolio-1.jpg" alt="">
+                    </div>
+
+                    <div class="about portfolio-info">
+                      <h3>Creative concepts</h3>
+                      <small>domain.com</small>
+                    </div>
+                    -->
+          <!-- portfolio-info -->
+          <!-- section portfolio
+                  </a>
+                  -->
+          <!-- .portfolio-item -->
+          <!-- section portfolio
+                </div>
+                <div class="about col-md-6">
+                  <a class="about portfolio-item" href="#">
+                    <div class="about portfolio-thumb">
+                      <img src="img/portfolio-2.jpg" alt="">
+                    </div>
+
+                    <div class="about portfolio-info">
+                      <h3>Customer focused</h3>
+                      <small>domain.com</small>
+                    </div>
+                    -->
+          <!-- portfolio-info -->
+          <!-- section portfolio
+                  </a>
+                  -->
+          <!-- .portfolio-item -->
+          <!-- section portfolio
+                </div>
+                <div class="about col-md-6">
+                  <a class="about portfolio-item" href="#">
+                    <div class="about portfolio-thumb">
+                      <img src="img/portfolio-3.jpg" alt="">
+                    </div>
+
+                    <div class="about portfolio-info">
+                      <h3>Management methodology</h3>
+                      <small>domain.com</small>
+                    </div>
+            -->
+          <!-- portfolio-info -->
+          <!-- section portfolio
+                  </a>
+            -->
+          <!-- .portfolio-item -->
+          <!-- section portfolio
+                </div>
+                <div class="about col-md-6">
+                  <a class="about portfolio-item" href="#">
+                    <div class="about portfolio-thumb">
+                      <img src="img/portfolio-4.jpg" alt="">
+                    </div>
+
+                    <div class="about portfolio-info">
+                      <h3>Market research</h3>
+                      <small>domain.com</small>
+                    </div>
+            -->
+          <!-- portfolio-info -->
+          <!-- section portfolio
+                  </a>
+            -->
+          <!-- .portfolio-item -->
+          <!-- section portfolio
+                </div>
+
+              </div>
+            </div>
+
+          </section>
+          section portfolio -->
+
+          <section class="about section-contact section-wrapper gray-bg">
+            <div class="about container-fluid">
+              <div class="about row">
+                <div class="about col-md-12">
+                  <div class="about section-title">
+                    <h2>Contacto</h2>
+                  </div>
+                </div>
+              </div>
+              <!--.row-->
+              <div class="about row">
+                <div class="about col-md-12">
+                  <strong>Correo electrónico</strong><br>
+                  <a href="mailto:luis@drconopoima.com">luis@drconopoima.com</a>
+                  <address>
+                    <strong>Ubicación</strong><br>
+                    Madrid, España
+                  </address>
+                  </address>
+                </div>
+              </div>
+              <!--.row-->
+
+          </section>
+          <!--.section-contact-->
+          </div>
+          </div>
+          <!-- Sticky -->
+          </div>
+          <!-- .right-col-block -->
+          </div>
+          <!-- .columns-block -->
+          </div>
+          <!-- #main-wrapper -->
+          <script>
+            $(document).ready(function() {
+              // Show only the first accomplishments and add "show more" toggle
+              $('ul.accomplishmentsList').each(function() {
+                //  Show only 3 items first
+                var numberOfItems = 3
+
+                if ($(this).find('li').length > numberOfItems) {
+                  $('li', this).eq(2).nextAll().hide().addClass('hidden');
+                  $(this).append('<button class="readMoreAccomplishments btn btn-secondary btn-sm">Mostrar más...</button>');
+                }
+                $(this).on('click', '.readMoreAccomplishments', toggleShow);
+              });
+
+              function toggleShow() {
+                var opened = $(this).hasClass('less');
+                $(this).text(opened ? 'Mostrar más...' : 'Mostrar menos...').toggleClass('less', !opened);
+                $(this).siblings('li.hidden').slideToggle();
+              }
+            });
+          </script>";s:12:"content_meta";N;}

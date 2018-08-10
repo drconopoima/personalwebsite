@@ -1,0 +1,51 @@
+<ul class="langswitcher">
+  <div class="col-3 col-tb-5 col-st-8 col-mb-12" id="laguange-selector">
+    <script>
+      function setCookieLocale(key, domain, url) {
+        var date = new Date();
+        date.setTime(date.getTime() + (14 * 86400 * 1000));
+        var expires = "; expires=" + date.toGMTString();
+        document.cookie = '__LOCALE__=' + key + '; path=/ ;' + expires + '; domain=' + domain;
+        //location.reload(url);
+        location.replace(url);
+      }
+    </script>
+
+    <div class="form-select">
+      <select name="languageCookie" id="languageCookie" onchange="javascript: setCookieLocale(this.options[this.selectedIndex].value, '.drconopoima.com', this.options[this.selectedIndex].dataset.params); return false">
+
+      <!-- Print the active language as the first element of the selector -->
+
+      {% set base_lang_url = base_url_simple ~ grav.language.getLanguageURLPrefix(language) %}
+      {% set lang_url = base_lang_url ~ langswitcher.page_route ~ page.urlExtension %}
+      <!-- The langswitcher  -->
+      <option value="{{ language }}" data-current="{{ langswitcher.current }}" data-params="{{ lang_url ~ uri.params }}">{{ native_name(grav.language.getLanguage)|capitalize }}</option>
+
+    <!-- Print the rest of the languages in the selector -->
+
+      {% for language in langswitcher.languages %}
+          {% set show_language = true %}
+          {% if language != langswitcher.current %}
+              {% set base_lang_url = base_url_simple ~ grav.language.getLanguageURLPrefix(language) %}
+              {% set lang_url = base_lang_url ~ langswitcher.page_route ~ page.urlExtension %}
+              {% set untranslated_pages_behavior = grav.config.plugins.langswitcher.untranslated_pages_behavior %}
+              {% if untranslated_pages_behavior != 'none' %}
+                  {% set translated_page = langswitcher.translated_pages[language] %}
+                  {% if (not translated_page) or (not translated_page.published) %}
+                      {% if untranslated_pages_behavior == 'redirect' %}
+                          {% set lang_url = base_lang_url ~ '/' %}
+                      {% elseif untranslated_pages_behavior == 'hide' %}
+                          {% set show_language = false %}
+                      {% endif %}
+                  {% endif %}
+              {% endif %}
+              {% if show_language %}
+                <option value="{{ language }}" data-current="{{ langswitcher.current }}" data-params="{{ lang_url ~ uri.params }}">{{ native_name(language)|capitalize }}</option>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+          </select>
+    </div>
+
+  </div>
+</ul>

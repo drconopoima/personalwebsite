@@ -1,0 +1,15 @@
+<li>
+  <a href='{{ post.url }}'>
+    <div class="post-item-title">
+      <header><!--
+      -->{{post.title }}<!--
+      --></header>
+      <div class="post-item-date">
+          <aside class="dates">{{ post.date|date('d') }}
+            {{ 'MONTHS_OF_THE_YEAR'|ta(post.date|date('n') - 1) }}
+          </aside>
+      </div>
+    </div>
+    <h2>{{ post.header.headline }}</h2>
+  </a>
+</li>
